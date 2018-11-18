@@ -1,5 +1,3 @@
-py zmq //
-
-my py
- //
-matplotlib //
+pyzmq
+mypy
+matplotlib
